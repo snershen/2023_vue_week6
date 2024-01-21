@@ -1,1 +1,0 @@
-import{_ as s,c as o,o as t,a as e}from"./index-CItsR2hm.js";const c={},n={class:"py-5"},a=e("div",{class:"container"},[e("h2",null,"首頁")],-1),_=[a];function r(d,i,p,l,f,h){return t(),o("main",n,_)}const u=s(c,[["render",r]]);export{u as default};
